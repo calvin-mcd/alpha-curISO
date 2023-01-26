@@ -414,6 +414,14 @@
     [
       "deb012b3-dbea-4e93-8127-2c26b2f435e8",
       ""
+    ],
+    [
+      "74380d57-f0c1-489b-a62c-a123199ad76d",
+      "Switch Matrix"
+    ],
+    [
+      "95f737ff-3726-42d9-9107-e368485f9b6b",
+      "Components"
     ]
   ],
   "text_variables": {}

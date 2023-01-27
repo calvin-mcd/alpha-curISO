@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/libs/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/libs/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/libs/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "mkl27z256vfm4")(type "Legacy")(uri "${KIPRJMOD}/libs/kicad_lib_tmk/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/libs/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+)

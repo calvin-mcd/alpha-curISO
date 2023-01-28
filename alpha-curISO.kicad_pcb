@@ -250,7 +250,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 04983f39-021e-461d-971d-e363af173109)
-    (at -75.025 -1.585)
+    (at 89.69375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/6c5a8380-17fb-4fdd-abb4-422f92dd032b")
@@ -286,7 +286,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 05b82660-bb1e-4810-bd46-8cc3bb84ac55)
-    (at 115.325 -84.305)
+    (at 242.09375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/d868add6-e605-423e-b391-a3f46b1f3473")
@@ -405,7 +405,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 087aec9c-eb70-4bd9-9a4d-11df7175503f)
-    (at 2.175 59.015)
+    (at 108.74375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/f685b29b-55f9-406f-bcc6-2c2a21c9a48d")
@@ -784,7 +784,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 1493812f-7cb2-4864-8933-78c726b4c330)
-    (at 90.195 -43.905)
+    (at 127.79375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/e943dd9d-bc5f-4b0b-98e7-fbc0e3dd7532")
@@ -870,7 +870,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 1bd9bfc7-f9fa-47fb-9f29-3f57ab270de5)
-    (at 80.675 -23.705)
+    (at 225.425 140.49375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/f0b416e8-d1f4-41ab-adf5-dc99d507064b")
@@ -906,7 +906,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 1c976ee1-df0f-4cc0-ba99-44fc221837cb)
-    (at -60.725 -21.785)
+    (at 165.89375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/2b1d3760-7586-4f79-8412-c89c78605beb")
@@ -992,7 +992,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 1d40773b-3e89-4655-8273-dc68746c9c6a)
-    (at -114.265 40.095)
+    (at 56.35625 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/251ad5be-8126-454f-8bd4-c5e14db7e2a0")
@@ -1028,7 +1028,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 1e3a61c6-c692-4496-a140-6b156fd3fdf0)
-    (at 9.395 -43.905)
+    (at 165.89375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/572cdf41-bcff-4f11-b976-b36476662912")
@@ -1148,7 +1148,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 20a23f43-b4db-41d2-b2b5-d981076af178)
-    (at -34.625 -1.585)
+    (at 61.11875 114.3)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/5c6e660b-501f-4fbe-b916-8db871c749fb")
@@ -1262,7 +1262,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 2229d014-08ca-47a5-9a57-05fef5231179)
-    (at -78.625 60.295)
+    (at 203.99375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/06bc09cc-a2c2-465d-b2cc-08c3c70a5387")
@@ -1382,7 +1382,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 2578758a-ac3e-4174-bc26-096430dacd8e)
-    (at -33.465 38.815)
+    (at 218.28125 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/ba55fb5f-3d57-43c4-9ac4-2e487178016f")
@@ -1458,7 +1458,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 293b0c87-b1b8-4eb1-ae24-25956be49564)
-    (at -73.865 40.095)
+    (at 51.59375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/41905930-392c-4fab-bbc0-b7d66a625bd3")
@@ -1615,7 +1615,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 2ce556c8-2800-4118-92fa-d43c39bc1fd8)
-    (at -31.005 -43.265)
+    (at 127.79375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/24855054-85e3-4e58-afec-65dbc09e462e")
@@ -1787,7 +1787,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 2e66d9f5-b593-4ff1-a3d3-caef58797885)
-    (at 5.775 -2.865)
+    (at 113.50625 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/0875f611-4460-479a-a026-eefd1513d8d2")
@@ -1951,7 +1951,7 @@
 
   (footprint "MX_Only:MXOnly-1.25U-NoLED" (layer "F.Cu")
     (tedit 5BD3C68C) (tstamp 329ff77d-7bc5-458b-8562-efe02a729944)
-    (at -20.24375 -63.465)
+    (at 258.7625 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/92bffcf9-fe04-4d98-8029-e7905803fcdf")
@@ -2073,7 +2073,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 375272a1-c1ef-42b0-af26-d6ce4cb01d3c)
-    (at 59.485 -104.505)
+    (at 32.54375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/78190fb7-47ca-462e-8f03-a78c5cb24928")
@@ -2293,7 +2293,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 411e405c-2546-4eae-a666-59de95ffecd1)
-    (at -18.025 59.015)
+    (at 242.09375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/e67212aa-72b7-488f-801f-46ec25220b0a")
@@ -2465,7 +2465,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 46fd6f93-454e-4b41-a43b-d8f2a954d9b5)
-    (at 2.335 -64.105)
+    (at 32.54375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/3162c7fc-b7a3-47bf-93d5-bf6d10fca926")
@@ -2629,7 +2629,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 50265bf4-fb9b-4681-a05c-96804eb5b8dc)
-    (at 36.655 16.695)
+    (at 184.94375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/63f2bd97-fdea-455f-bc0a-68358f4264be")
@@ -2665,7 +2665,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 51984a89-5423-4a7e-b0dc-882f0152087b)
-    (at -3.745 17.335)
+    (at 161.13125 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/0f9fba79-6183-426d-ae4e-33b1e52eb464")
@@ -2791,7 +2791,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 5543c46a-ecc4-433b-aab3-6cbf8259d026)
-    (at -58.425 60.295)
+    (at 165.89375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/b6ac67ef-da5e-4ea2-9f2e-b256701a3506")
@@ -2877,7 +2877,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 574e35cb-76bf-41d4-9b3f-22f83a512f7f)
-    (at -94.065 40.095)
+    (at 203.99375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/877ce685-48ef-4e13-91f1-0b9dae14861b")
@@ -2913,7 +2913,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 57f5e9cd-d319-496a-8215-e2b4beb3873c)
-    (at -20.325 -23.065)
+    (at 108.74375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/4e393a95-8af9-41da-9d0c-b4f9119c8195")
@@ -3091,7 +3091,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 5a5f9f64-7f5b-48a3-bf7b-2acd25e042f2)
-    (at 16.455 17.335)
+    (at 184.94375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/dbcf1f0c-2172-4cdc-acda-d6474e2708b9")
@@ -3127,7 +3127,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 5aac2965-a671-4b1e-bc1f-c3ac69654bc9)
-    (at 34.525 -84.305)
+    (at 223.04375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/6f6a7272-6333-46bf-a5d2-cfac0fcccc05")
@@ -3213,7 +3213,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 61a44766-41a2-4221-8461-5bcfea7a3393)
-    (at 6.935 37.535)
+    (at 51.59375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/9e667125-6abd-47f7-b0d9-e11f52bcb712")
@@ -3249,7 +3249,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 6416ac07-859a-42c6-af40-ce9ab862520b)
-    (at -14.425 -2.865)
+    (at 261.14375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/989b53ad-ee24-4c90-b0e3-48eae82b37e2")
@@ -3385,7 +3385,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 69150030-a6d0-408c-9b7b-7b65b8ad9e54)
-    (at 20.075 -23.705)
+    (at 180.18125 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/afe148df-5a89-41ed-b6d6-21c5968c9362")
@@ -3513,7 +3513,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 6ac51845-a111-4530-b918-a53983abbf05)
-    (at -0.125 -23.065)
+    (at 89.69375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/8b7faa83-91b3-4c6b-9f46-8f4a56fb2105")
@@ -3549,7 +3549,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 6ad15b24-f818-49fa-a8fb-70e80ab6e3ca)
-    (at -13.265 38.815)
+    (at 261.14375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/d20810b6-9c78-4777-996a-663bc160baef")
@@ -3618,7 +3618,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 7055c189-6b64-4f03-8491-fdb4cf38d2ae)
-    (at 60.475 -23.705)
+    (at 203.99375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/e04e959b-6c46-4721-97b8-8772b6c2c294")
@@ -3654,7 +3654,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 71084b63-1e91-4f55-a8ad-d0079395857b)
-    (at 99.885 -104.505)
+    (at 132.55625 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/a6426b13-928d-42a9-a35d-8d2cdac84e36")
@@ -3690,7 +3690,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 725513b1-dbfc-46af-8ba5-a9cdb760ce3f)
-    (at 123.535 -64.105)
+    (at 70.64375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/f15cb9c5-b613-4c73-a6ed-fbeb2329c928")
@@ -3762,7 +3762,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 74ac37f7-9a46-4747-bd0c-e233a0327723)
-    (at -44.145 18.615)
+    (at 80.16875 114.3)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/8a27e6ce-af75-4739-ad6b-0158c2e7206b")
@@ -3874,7 +3874,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 7a0ebac2-75e9-4263-b902-fea8557fbda0)
-    (at 160.485 -104.505)
+    (at 70.64375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/ff703dfc-3caf-4816-b651-2a0aea829e04")
@@ -3960,7 +3960,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 7c3a6d91-d732-4745-8eca-2e77dced08d7)
-    (at 25.975 -3.505)
+    (at 242.09375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/cebdd69c-ba94-40b1-bef5-162e4020e2c1")
@@ -4229,7 +4229,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 8b2a2688-ba92-4d7d-a330-67b93200a5b7)
-    (at 103.335 -64.105)
+    (at 108.74375 -74.6125)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/e3193689-5194-47a6-a424-96db00a9eb90")
@@ -4315,7 +4315,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 8bb6da85-e77e-43a6-bbc6-eefd7d33b54e)
-    (at -119.025 60.295)
+    (at 127.79375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/438713b3-2a79-4c7e-93b4-59ca9851980a")
@@ -4401,7 +4401,7 @@
 
   (footprint "MX_Only:MXOnly-6U-Centered-ReversedStabilizers-NoLED" (layer "F.Cu")
     (tedit 5CF32344) (tstamp 922c6843-cf0f-4ebc-b6d9-c8e32e1812b9)
-    (at -121.32 -103.8561)
+    (at 149.225 134.14375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/9b81f541-be3a-4977-9960-1d213c0abb40")
@@ -4491,7 +4491,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 947013a3-2697-4356-acb9-6daf6f430c08)
-    (at 42.735 -64.105)
+    (at 199.23125 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/5f0c5195-822e-4043-b291-f88969222f5b")
@@ -4527,7 +4527,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 95895b26-8215-4cc1-ae45-80fd8081a6a3)
-    (at 74.925 -84.305)
+    (at 237.33125 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/9dea5b62-f99a-4f86-a244-431a3bac3586")
@@ -4563,7 +4563,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 9622e6d7-9ea9-4be2-83a0-90a619caab87)
-    (at 79.685 -104.505)
+    (at 146.84375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/8b6b8e3b-b404-496e-bebb-442a4bc4745d")
@@ -4599,7 +4599,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp 968e79ca-1d4f-4a78-8a24-91468f2c9ef5)
-    (at -23.945 18.615)
+    (at 223.04375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/a45afab6-0c56-4474-a726-ee96056e7164")
@@ -4685,7 +4685,7 @@
 
   (footprint "MX_Only:MXOnly-1.5U-NoLED" (layer "F.Cu")
     (tedit 5BD3C5FF) (tstamp 9aa7430b-8ad5-473d-b7fc-03c1f4a6cc6a)
-    (at -164.1825 38.945)
+    (at 230.1875 41.275)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/07ed6538-b1a8-4f6f-a41a-f44fc147f66c")
@@ -4771,7 +4771,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp a1921c9b-ef44-4a09-9557-52d8c2cacc44)
-    (at -40.525 -21.785)
+    (at 146.84375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/32516e8b-3a4b-406c-9fff-3282c68a06fc")
@@ -4807,7 +4807,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp a202586a-5fe7-4fad-8bfd-bf81a04e9c6c)
-    (at 46.175 -3.505)
+    (at 50.00625 140.49375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/e723302c-197e-4acf-8d52-d7ffbb56cc13")
@@ -5686,7 +5686,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp b7f3522e-011f-49ae-985d-ed23178fd16e)
-    (at -38.225 59.015)
+    (at 108.74375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/61e3977f-7216-407e-babf-44eafdb2ca39")
@@ -5854,7 +5854,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp be4e52f2-a47f-44ba-991a-d96c954fd7aa)
-    (at 22.535 -64.105)
+    (at 184.94375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/7c8a8cba-ca26-4334-aedc-4ea509cee163")
@@ -6024,7 +6024,7 @@
 
   (footprint "MX_Only:MXOnly-1.5U-NoLED" (layer "F.Cu")
     (tedit 5BD3C5FF) (tstamp c75e2a1f-7532-4a3c-90b3-7568922ef59f)
-    (at -164.1825 59.145)
+    (at 37.30625 115.09375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/f00894f1-badc-4ec7-8a9d-01da427a1b36")
@@ -6132,7 +6132,7 @@
 
   (footprint "MX_Only:MXOnly-1.25U-NoLED" (layer "F.Cu")
     (tedit 5BD3C68C) (tstamp c995ff7e-419a-4c96-8d95-b63898ffbb8f)
-    (at -20.24375 -83.665)
+    (at 34.925 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/2a3f7b01-a6d5-432c-9c5f-9a4644ad48e7")
@@ -6254,7 +6254,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp d0f2375c-9db5-4a7d-b320-e44864ade207)
-    (at -64.345 18.615)
+    (at 261.14375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/4d6230a6-50f3-4f2b-adf5-f4ea4ee1441b")
@@ -6290,7 +6290,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp d3fe4a05-b925-46a2-93f4-76a627c4f066)
-    (at 140.285 -104.505)
+    (at 51.59375 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/dd545642-9f10-4bdd-adc6-fa5fd5cf1e2c")
@@ -6442,7 +6442,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp da786237-e624-4931-9a48-562013c4df8d)
-    (at 135.525 -84.305)
+    (at 223.04375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/62eb9002-7230-42dd-a5ce-58074299d155")
@@ -6528,7 +6528,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp db8ad113-d4a8-45f5-8841-fddef0e557cf)
-    (at 40.275 -23.705)
+    (at 89.69375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/c7876ef3-ccd2-4ab2-b5ee-0993ad626411")
@@ -6696,7 +6696,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp de69006e-12ae-4f04-abf3-2afa9eb208aa)
-    (at 54.725 -84.305)
+    (at 70.64375 60.325)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/891e3dab-cc31-4ede-98ba-8d2fa80baa88")
@@ -6970,7 +6970,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp e1fc3afd-8ac3-4977-a43b-730c3b7e6253)
-    (at 95.125 -84.305)
+    (at 32.54375 79.375)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/c2ea76a5-9da5-48a7-b78c-3f465fd829f3")
@@ -7228,7 +7228,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp ea46b59e-7a22-4353-9516-d3ed3666aa1b)
-    (at -53.665 38.815)
+    (at 144.4625 14.2875)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/9c7de473-8d36-4db4-a99c-46fa7ab71c49")
@@ -7497,7 +7497,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp f72e3ddd-756c-4016-8b40-bddf295a8305)
-    (at 69.995 -43.905)
+    (at 94.45625 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/d3a37e52-8957-407b-8cde-ca544bae0f88")
@@ -7688,7 +7688,7 @@
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
     (tedit 5BD3C6C7) (tstamp fd47f6b9-8319-492d-8155-b1f3febedd7c)
-    (at 29.595 -43.905)
+    (at 75.40625 98.425)
     (property "Sheetfile" "Switch Matrix.kicad_sch")
     (property "Sheetname" "Switch Matrix")
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/577103f4-836d-49e3-b514-aefe7b67606c")
@@ -7722,30 +7722,30 @@
       (net 22 "Net-(D11-Pad2)") (pinfunction "2") (pintype "passive") (tstamp daa53c9e-0fc2-424e-a6cc-1e181ca90703))
   )
 
-  (gr_arc (start 24.018749 126.704485) (mid 23.311643 126.411592) (end 23.01875 125.704486) (layer "Edge.Cuts") (width 0.05) (tstamp 06bcab0e-2733-46f1-a596-49c7a58cd158))
-  (gr_line (start 271.618749 109.58441) (end 271.618749 66.674951) (layer "Edge.Cuts") (width 0.05) (tstamp 153da805-d611-4b2f-8c9c-97b26c8d1b73))
-  (gr_arc (start 246.879007 127.68506) (mid 256.794281 126.949778) (end 266.733755 126.704483) (layer "Edge.Cuts") (width 0.05) (tstamp 38289595-6b26-45c5-80ec-ea8e1262fbe1))
-  (gr_arc (start 218.437886 130.501203) (mid 208.670234 131.22554) (end 198.878742 131.467181) (layer "Edge.Cuts") (width 0.05) (tstamp 3fe00d53-2505-4237-b1dc-4b4c2fb98cd8))
-  (gr_line (start 271.618749 52.43441) (end 271.618749 50.55468) (layer "Edge.Cuts") (width 0.05) (tstamp 42a844d6-1a76-4bc5-bd24-b15dc06d69b8))
-  (gr_line (start 266.733755 126.704483) (end 270.618749 126.704483) (layer "Edge.Cuts") (width 0.05) (tstamp 597b185d-addd-4fd6-9547-760e6d55427a))
-  (gr_line (start 47.758483 127.685062) (end 76.199618 130.501204) (layer "Edge.Cuts") (width 0.05) (tstamp 6fa17b34-35aa-4126-925e-876ace878f70))
-  (gr_line (start 23.018751 50.554681) (end 23.01875 52.434361) (layer "Edge.Cuts") (width 0.05) (tstamp 71ad422d-eaff-42bb-b390-1f613d7f1433))
-  (gr_arc (start 95.758749 131.46718) (mid 85.967264 131.225541) (end 76.199618 130.501204) (layer "Edge.Cuts") (width 0.05) (tstamp 71c24cde-f21d-48ee-899e-d514bef21846))
-  (gr_line (start 271.618749 66.674951) (end 271.618749 52.43441) (layer "Edge.Cuts") (width 0.05) (tstamp 73e50ffe-ea03-46e5-90d9-a58dca4f97f6))
-  (gr_line (start 23.01875 109.584361) (end 23.01875 123.825) (layer "Edge.Cuts") (width 0.05) (tstamp 810ffaf7-1d1b-452b-bbe0-cf3046a6fe43))
-  (gr_arc (start 270.618749 49.55468) (mid 271.325813 49.847592) (end 271.618749 50.55468) (layer "Edge.Cuts") (width 0.05) (tstamp 8dc1199a-15a6-4bd6-b58c-f7a0e387927e))
-  (gr_line (start 270.618749 49.55468) (end 24.018749 49.554682) (layer "Edge.Cuts") (width 0.05) (tstamp 90e7c834-6a5d-481e-aae0-a9c8d583d8d5))
-  (gr_line (start 24.018749 126.704485) (end 27.903749 126.704486) (layer "Edge.Cuts") (width 0.05) (tstamp 92e57d3c-f9e6-41b4-9ca6-0aa9296101fd))
-  (gr_line (start 23.01875 123.825) (end 23.01875 125.704486) (layer "Edge.Cuts") (width 0.05) (tstamp a0b2369a-8c71-41d5-a4f5-251c135c65e9))
-  (gr_line (start 271.618749 123.824951) (end 271.618749 109.58441) (layer "Edge.Cuts") (width 0.05) (tstamp a8e75009-403c-443d-95ee-a619624464a7))
-  (gr_arc (start 271.618749 125.704483) (mid 271.325846 126.411582) (end 270.618749 126.704483) (layer "Edge.Cuts") (width 0.05) (tstamp b52d5d25-274f-410b-8df3-6cd1fbd4913a))
-  (gr_line (start 218.437886 130.501203) (end 246.879007 127.68506) (layer "Edge.Cuts") (width 0.05) (tstamp bfc84692-b207-4345-a97c-51a24dbc1f0d))
-  (gr_line (start 23.01875 52.434361) (end 23.018749 66.675) (layer "Edge.Cuts") (width 0.05) (tstamp c2256991-2788-4628-a432-985d37bfecc3))
-  (gr_arc (start 27.903749 126.704486) (mid 37.843216 126.949779) (end 47.758483 127.685062) (layer "Edge.Cuts") (width 0.05) (tstamp e202a30b-50c2-4474-9c92-9986aa5ea1ad))
-  (gr_line (start 23.018749 66.675) (end 23.01875 109.584361) (layer "Edge.Cuts") (width 0.05) (tstamp e931af72-fbca-4827-83b2-8a4412027678))
-  (gr_line (start 271.618749 125.704483) (end 271.618749 123.824951) (layer "Edge.Cuts") (width 0.05) (tstamp f27358c9-493e-47dc-9830-34fd695823af))
-  (gr_arc (start 23.018751 50.554681) (mid 23.311644 49.847575) (end 24.018749 49.554682) (layer "Edge.Cuts") (width 0.05) (tstamp f577d413-52a4-44e9-9ff5-52e080e6b254))
-  (gr_line (start 95.758749 131.46718) (end 198.878742 131.467181) (layer "Edge.Cuts") (width 0.05) (tstamp ffa58415-7bdb-41f0-8433-1f24148fbf92))
+  (gr_arc (start 23.54375 127.949803) (mid 22.836617 127.656927) (end 22.543751 126.949804) (layer "Edge.Cuts") (width 0.05) (tstamp 06bcab0e-2733-46f1-a596-49c7a58cd158))
+  (gr_line (start 271.14375 110.829728) (end 271.14375 67.920269) (layer "Edge.Cuts") (width 0.05) (tstamp 153da805-d611-4b2f-8c9c-97b26c8d1b73))
+  (gr_arc (start 246.404008 128.930378) (mid 256.319282 128.195097) (end 266.258756 127.949801) (layer "Edge.Cuts") (width 0.05) (tstamp 38289595-6b26-45c5-80ec-ea8e1262fbe1))
+  (gr_arc (start 217.962887 131.746521) (mid 208.195235 132.470856) (end 198.403743 132.712499) (layer "Edge.Cuts") (width 0.05) (tstamp 3fe00d53-2505-4237-b1dc-4b4c2fb98cd8))
+  (gr_line (start 271.14375 53.679728) (end 271.14375 51.799998) (layer "Edge.Cuts") (width 0.05) (tstamp 42a844d6-1a76-4bc5-bd24-b15dc06d69b8))
+  (gr_line (start 266.258756 127.949801) (end 270.14375 127.949801) (layer "Edge.Cuts") (width 0.05) (tstamp 597b185d-addd-4fd6-9547-760e6d55427a))
+  (gr_line (start 47.283484 128.93038) (end 75.724619 131.746522) (layer "Edge.Cuts") (width 0.05) (tstamp 6fa17b34-35aa-4126-925e-876ace878f70))
+  (gr_line (start 22.543752 51.799999) (end 22.543751 53.679679) (layer "Edge.Cuts") (width 0.05) (tstamp 71ad422d-eaff-42bb-b390-1f613d7f1433))
+  (gr_arc (start 95.28375 132.712498) (mid 85.492265 132.470857) (end 75.724619 131.746522) (layer "Edge.Cuts") (width 0.05) (tstamp 71c24cde-f21d-48ee-899e-d514bef21846))
+  (gr_line (start 271.14375 67.920269) (end 271.14375 53.679728) (layer "Edge.Cuts") (width 0.05) (tstamp 73e50ffe-ea03-46e5-90d9-a58dca4f97f6))
+  (gr_line (start 22.543751 110.829679) (end 22.543751 125.070318) (layer "Edge.Cuts") (width 0.05) (tstamp 810ffaf7-1d1b-452b-bbe0-cf3046a6fe43))
+  (gr_arc (start 270.14375 50.799998) (mid 270.850803 51.092937) (end 271.14375 51.799998) (layer "Edge.Cuts") (width 0.05) (tstamp 8dc1199a-15a6-4bd6-b58c-f7a0e387927e))
+  (gr_line (start 270.14375 50.799998) (end 23.54375 50.8) (layer "Edge.Cuts") (width 0.05) (tstamp 90e7c834-6a5d-481e-aae0-a9c8d583d8d5))
+  (gr_line (start 23.54375 127.949803) (end 27.42875 127.949804) (layer "Edge.Cuts") (width 0.05) (tstamp 92e57d3c-f9e6-41b4-9ca6-0aa9296101fd))
+  (gr_line (start 22.543751 125.070318) (end 22.543751 126.949804) (layer "Edge.Cuts") (width 0.05) (tstamp a0b2369a-8c71-41d5-a4f5-251c135c65e9))
+  (gr_line (start 271.14375 125.070269) (end 271.14375 110.829728) (layer "Edge.Cuts") (width 0.05) (tstamp a8e75009-403c-443d-95ee-a619624464a7))
+  (gr_arc (start 271.14375 126.949801) (mid 270.850866 127.656936) (end 270.14375 127.949801) (layer "Edge.Cuts") (width 0.05) (tstamp b52d5d25-274f-410b-8df3-6cd1fbd4913a))
+  (gr_line (start 217.962887 131.746521) (end 246.404008 128.930378) (layer "Edge.Cuts") (width 0.05) (tstamp bfc84692-b207-4345-a97c-51a24dbc1f0d))
+  (gr_line (start 22.543751 53.679679) (end 22.54375 67.920318) (layer "Edge.Cuts") (width 0.05) (tstamp c2256991-2788-4628-a432-985d37bfecc3))
+  (gr_arc (start 27.42875 127.949804) (mid 37.368217 128.195095) (end 47.283484 128.93038) (layer "Edge.Cuts") (width 0.05) (tstamp e202a30b-50c2-4474-9c92-9986aa5ea1ad))
+  (gr_line (start 22.54375 67.920318) (end 22.543751 110.829679) (layer "Edge.Cuts") (width 0.05) (tstamp e931af72-fbca-4827-83b2-8a4412027678))
+  (gr_line (start 271.14375 126.949801) (end 271.14375 125.070269) (layer "Edge.Cuts") (width 0.05) (tstamp f27358c9-493e-47dc-9830-34fd695823af))
+  (gr_arc (start 22.543752 51.799999) (mid 22.836648 51.092888) (end 23.54375 50.8) (layer "Edge.Cuts") (width 0.05) (tstamp f577d413-52a4-44e9-9ff5-52e080e6b254))
+  (gr_line (start 95.28375 132.712498) (end 198.403743 132.712499) (layer "Edge.Cuts") (width 0.05) (tstamp ffa58415-7bdb-41f0-8433-1f24148fbf92))
 
   (group "" (id 426a3fc4-5872-4533-95cb-83dfd9a7901a)
     (members

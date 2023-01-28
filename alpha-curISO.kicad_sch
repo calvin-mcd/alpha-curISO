@@ -1273,6 +1273,21 @@
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/7ff8a118-1f62-4e57-93dd-3363aff6ca8a"
       (reference "SW_rotary1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
     )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/8d636146-3d20-4e76-89d4-e4f12b479fba"
+      (reference "SW_rotary2") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+    )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/5e2a17c4-deca-434b-a9d2-90f3d2424269"
+      (reference "SW_rotary3") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+    )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/bdef24ea-3dd0-4e12-824c-79b3ebee585d"
+      (reference "SW_rotary4") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+    )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/fcd777eb-cc52-445e-bee3-1961a24b4271"
+      (reference "SW_rotary5") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+    )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/dc7d50cb-941f-46c3-9a8f-bfdbaca31203"
+      (reference "SW_rotary6") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+    )
     (path "/95f737ff-3726-42d9-9107-e368485f9b6b/d827482f-5f65-4d19-8947-9d7f7acf77b8"
       (reference "TP1") (unit 1) (value "TPGND") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )

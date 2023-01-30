@@ -1,4 +1,4 @@
-21058121404559019
+21059763482100787
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6240,6 +6240,13 @@ Capacitor_Tantalum_SMD
 CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder
 Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
 capacitor tantalum
+0
+2
+2
+CherryMX_4.00u
+CherryMX_4.00u
+Cherry MX switch footprint. Size: 4.00u, Mount type: Plate, Using Kailh Socket: no, Stabilizer: Plate mounted, Lighting: none
+CherryMX 4.00u
 0
 2
 2

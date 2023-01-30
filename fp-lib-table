@@ -4,4 +4,5 @@
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
   (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/libs/Type-C.pretty")(options "")(descr ""))
   (lib (name "Sleep-lib")(type "KiCad")(uri "${KIPRJMOD}/libs/Sleepdealr RP2040-designguide main PCB-Libraries/Sleep-lib.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_4.00u")(type "KiCad")(uri "${KIPRJMOD}/libs/MX4u/CherryMX_4.00u.pretty")(options "")(descr ""))
 )

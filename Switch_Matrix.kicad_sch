@@ -4715,7 +4715,7 @@
     (property "Value" "SW_Push_45deg" (id 1) (at 137.795 114.935 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (id 2) (at 137.795 120.015 0)
+    (property "Footprint" "CherryMX_4.00u:CherryMX_4.00u" (id 2) (at 137.795 120.015 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 137.795 120.015 0)

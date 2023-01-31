@@ -2399,9 +2399,6 @@
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/cebdd69c-ba94-40b1-bef5-162e4020e2c1"
       (reference "SW25") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
-    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/ed15df3f-1a4a-4c40-b396-0ebd69711d1a"
-      (reference "SW25(1.5)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1.5U-NoLED")
-    )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/4d6230a6-50f3-4f2b-adf5-f4ea4ee1441b"
       (reference "SW26") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1U-NoLED")
     )

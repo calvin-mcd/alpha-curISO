@@ -7,4 +7,5 @@
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/libs/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "Sleep-lib")(type "KiCad")(uri "${KIPRJMOD}/libs/Sleepdealr RP2040-designguide main PCB-Libraries/Sleep-lib.kicad_sym")(options "")(descr ""))
   (lib (name "CherryMX_4.00u")(type "Legacy")(uri "${KIPRJMOD}/libs/MX4u/CherryMX_4.00u.lib")(options "")(descr ""))
+  (lib (name "crumpschemes")(type "Legacy")(uri "${KIPRJMOD}/libs/crump/crumpschemes.lib")(options "")(descr ""))
 )

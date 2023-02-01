@@ -2313,22 +2313,22 @@
     (path "/2388b0f7-5b43-4e2a-98bb-4d767090030c"
       (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
     )
-    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/7de7ee1b-5ebf-408d-afbb-9843d86aa214"
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/63299481-1218-4a06-9650-ccfd3db2381c"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
     )
-    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/350ab1b5-cd80-4b19-862c-cee5b3b3b445"
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/627871b8-6fd9-4f5c-a7bf-12fc95674c54"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
-    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/7fdc04f5-c9e9-460a-980b-3ad345844b6f"
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/8f9f94ce-c471-4835-ae7e-d669dccb22ca"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
-    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/6f4ce75f-b82f-452f-8836-77db512dd9d8"
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/1c02ec75-f0c1-4736-a6b4-b0c67f5e96b7"
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
     )
-    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/862353e1-0cd2-4f75-a2e0-f785f646bdf9"
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/c7878de6-0853-4ebb-80be-76c919945d54"
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
-    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/9e082bf7-7618-4910-be7c-c9347602aa41"
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/a62f9b51-13e6-489b-a408-66be85a1cd44"
       (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
     )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/6f87cbe8-df1f-462e-88f8-8f650ef257b2"
@@ -2995,22 +2995,22 @@
       (reference "SW49(1.5)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/7ff8a118-1f62-4e57-93dd-3363aff6ca8a"
-      (reference "SW_rotary1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+      (reference "SW_rotary1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/8d636146-3d20-4e76-89d4-e4f12b479fba"
-      (reference "SW_rotary2") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+      (reference "SW_rotary2") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/5e2a17c4-deca-434b-a9d2-90f3d2424269"
-      (reference "SW_rotary3") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+      (reference "SW_rotary3") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/bdef24ea-3dd0-4e12-824c-79b3ebee585d"
-      (reference "SW_rotary4") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+      (reference "SW_rotary4") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/fcd777eb-cc52-445e-bee3-1961a24b4271"
-      (reference "SW_rotary5") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+      (reference "SW_rotary5") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/dc7d50cb-941f-46c3-9a8f-bfdbaca31203"
-      (reference "SW_rotary6") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11-no-legs")
+      (reference "SW_rotary6") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
     )
     (path "/8c4cda02-8d93-4312-9483-0534173e7e3c"
       (reference "U1") (unit 1) (value "RP2040") (footprint "Sleep-lib:RP2040-QFN-56")

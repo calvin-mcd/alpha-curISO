@@ -2380,7 +2380,7 @@
       (reference "C6") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/39b45a0d-53ff-4014-b473-f0e3ef4e4325"
-      (reference "C7") (unit 1) (value "1nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C7") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/f5f80dc1-7bdb-4d2c-a5fa-71ffe85802c3"
       (reference "C8") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")

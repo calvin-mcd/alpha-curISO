@@ -1851,7 +1851,7 @@
     (property "Reference" "C7" (id 0) (at 211.709 78.7462 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1nF" (id 1) (at 207.137 83.566 0)
+    (property "Value" "1uF" (id 1) (at 207.137 83.566 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 209.169 80.01 0)

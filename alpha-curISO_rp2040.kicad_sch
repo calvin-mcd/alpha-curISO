@@ -1238,11 +1238,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b44b3c93-e9b8-4f15-ae1d-5317f16c0112)
   )
-  (text "does the rgb have to be powered bz 5v or can it be powered by\n 3v3?"
-    (at 163.195 253.365 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid eff06a9e-e29c-4a96-8a76-ffe9a9a4150d)
-  )
 
   (label "D_-" (at 36.576 50.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

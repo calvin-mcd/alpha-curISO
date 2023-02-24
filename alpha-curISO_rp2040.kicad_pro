@@ -651,7 +651,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "alpha-curISO_routingv6.kicad_pro",
+    "filename": "alpha-curISO_rp2040.kicad_pro",
     "version": 1
   },
   "net_settings": {

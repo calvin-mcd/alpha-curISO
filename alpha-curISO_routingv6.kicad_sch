@@ -3199,6 +3199,9 @@
     (path "/db1b42a0-bbd3-4e55-b5a6-e26f34820c44"
       (reference "#PWR0154") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/7bb3b82c-7522-4e08-8cbe-e62c6f2ed236"
+      (reference "#PWR0155") (unit 1) (value "GND") (footprint "")
+    )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/cce79384-81e6-4921-84d5-1511ce8fbc31"
       (reference "C1") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -3402,6 +3405,9 @@
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/663d7ba4-4da7-4376-b105-e514a1bf677f"
       (reference "D49") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123F")
+    )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/798ef4be-9228-4b52-8ad6-566f9e489b5a"
+      (reference "D50") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/bda6f6ec-074f-4486-8e73-7efe74af05b5"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
@@ -3712,6 +3718,9 @@
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/c4fae325-2f05-4130-aff2-1f3260a9461c"
       (reference "SW41(1.5)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/6f73339c-6c7d-433f-8a95-8ab852de3838"
+      (reference "SW42(1)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1U-NoLED")
+    )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/ce18a506-3491-4ea6-901a-de020041f01d"
       (reference "SW42(1.5)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
@@ -3742,6 +3751,9 @@
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/9a4f84ed-2dba-4f8f-887f-460a7838b808"
       (reference "SW45(2)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED")
     )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/fa9c9961-f1b9-4978-afaa-d82f31d16bc2"
+      (reference "SW46(1)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1U-NoLED")
+    )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/6024cc4e-8f57-4e90-8d79-1f8edff936d6"
       (reference "SW46(1.5)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
@@ -3769,6 +3781,9 @@
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/e73c8e94-daf8-4085-b290-a91954cb505f"
       (reference "SW49(1.5)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/b926b356-982d-4cda-a34f-9d3f8ac1798c"
+      (reference "SW50(ortho)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1U-NoLED")
+    )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/7ff8a118-1f62-4e57-93dd-3363aff6ca8a"
       (reference "SW_rotary1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
     )
@@ -3786,6 +3801,9 @@
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/dc7d50cb-941f-46c3-9a8f-bfdbaca31203"
       (reference "SW_rotary6") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
+    )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/2c6a233a-bc31-45fc-a3d6-e3cb48ab304d"
+      (reference "SW_rotary7") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio-Parts:RotaryEncoder_EC11_Nonplated")
     )
     (path "/8c4cda02-8d93-4312-9483-0534173e7e3c"
       (reference "U1") (unit 1) (value "RP2040") (footprint "Sleep-lib:RP2040-QFN-56")

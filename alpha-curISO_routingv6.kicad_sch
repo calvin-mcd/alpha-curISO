@@ -2935,6 +2935,9 @@
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/a29ce2bd-7f3e-4f4b-b2fc-e02b47b0b88b"
       (reference "#PWR0147") (unit 1) (value "GND") (footprint "")
     )
+    (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/d872660a-3d44-4c54-b531-80146fd031cd"
+      (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
+    )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/a8c9af1f-9564-4659-8d94-189d056183bc"
       (reference "#PWR0149") (unit 1) (value "GND") (footprint "")
     )
@@ -3423,6 +3426,9 @@
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/e67212aa-72b7-488f-801f-46ec25220b0a"
       (reference "SW37(ortho)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1U-NoLED")
+    )
+    (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/4bcce6de-5e7b-479e-a7a8-f004034e6883"
+      (reference "SW38") (unit 1) (value "SW_Push") (footprint "Keebio-Parts:SW_SPST_TL3342")
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/35f04198-2c62-434c-bae8-2054c01f0725"
       (reference "SW38(1.5)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1.5U-NoLED")

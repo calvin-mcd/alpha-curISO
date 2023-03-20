@@ -3319,11 +3319,14 @@
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/4d6230a6-50f3-4f2b-adf5-f4ea4ee1441b"
       (reference "SW26") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
+    (path "/74380d57-f0c1-489b-a62c-a123199ad76d/c616c3fc-3be4-4363-955d-3dfbd61d6c51"
+      (reference "SW26(1.5)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+    )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/b71bf784-c465-4cfc-b3dc-ee41cde97434"
       (reference "SW26(2)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-2U-NoLED")
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/c4ab61dd-122b-4f81-a50a-a85ee2d0927f"
-      (reference "SW26(ISO)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-ISO-NoLED")
+      (reference "SW26(ISO)1") (unit 1) (value "SW_Push_45deg") (footprint "MX_Only:MXOnly-ISO-ReversedStabilizers-NoLED")
     )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/2b4b1c92-1bda-4aef-9ffa-2f58607e08af"
       (reference "SW27") (unit 1) (value "SW_Push") (footprint "Keebio-Parts:SW_SPST_TL3342")

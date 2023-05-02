@@ -6,4 +6,5 @@
   (lib (name "Sleep-lib")(type "KiCad")(uri "${KIPRJMOD}/libs/Sleepdealr RP2040-designguide main PCB-Libraries/Sleep-lib.pretty")(options "")(descr ""))
   (lib (name "CherryMX_4.00u")(type "KiCad")(uri "${KIPRJMOD}/libs/MX4u/CherryMX_4.00u.pretty")(options "")(descr ""))
   (lib (name "CrumpPrints")(type "KiCad")(uri "${KIPRJMOD}/libs/crump/CrumpPrints.pretty")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO KICAD")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/Seeeduino-XIAO-KICAD/Seeeduino XIAO KICAD")(options "")(descr ""))
 )

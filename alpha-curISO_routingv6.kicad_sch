@@ -2047,7 +2047,7 @@
   (symbol (lib_name "+3V3_1") (lib_id "power:+3V3") (at 64.135 239.395 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0496c3f1-f9e9-4ce3-8cee-cd8468c66ede)
-    (property "Reference" "#PWR?" (id 0) (at 64.135 235.585 0)
+    (property "Reference" "#PWR0137" (id 0) (at 64.135 235.585 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (id 1) (at 64.135 243.84 0))
@@ -2119,7 +2119,7 @@
   (symbol (lib_name "+3V3_1") (lib_id "power:+3V3") (at 28.575 179.705 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1670c66e-bb68-4c8a-b466-ad045f3b87cd)
-    (property "Reference" "#PWR?" (id 0) (at 28.575 175.895 0)
+    (property "Reference" "#PWR0139" (id 0) (at 28.575 175.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (id 1) (at 28.575 184.15 0))
@@ -3386,8 +3386,14 @@
     (path "/1df305d2-cea2-4340-bed3-962985f9e2af"
       (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
     )
+    (path "/0496c3f1-f9e9-4ce3-8cee-cd8468c66ede"
+      (reference "#PWR0137") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/1d1a01f8-a74a-4ce9-acc5-911524b414cb"
       (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1670c66e-bb68-4c8a-b466-ad045f3b87cd"
+      (reference "#PWR0139") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/25241a54-1300-411c-bb0d-b8e1b4e25576"
       (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
@@ -3428,14 +3434,14 @@
     (path "/8f6c3e43-9085-4d92-8696-98fc0156ac40"
       (reference "#PWR0152") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/7f088c45-deab-4537-8fa1-c2d64c93374a"
+      (reference "#PWR0153") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/14cf8816-21ea-40fc-8ede-98a1796d643c"
+      (reference "#PWR0154") (unit 1) (value "GND") (footprint "")
+    )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/7bb3b82c-7522-4e08-8cbe-e62c6f2ed236"
       (reference "#PWR0155") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/0496c3f1-f9e9-4ce3-8cee-cd8468c66ede"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/1670c66e-bb68-4c8a-b466-ad045f3b87cd"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/cce79384-81e6-4921-84d5-1511ce8fbc31"
       (reference "C1") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -3688,6 +3694,9 @@
     )
     (path "/74380d57-f0c1-489b-a62c-a123199ad76d/798ef4be-9228-4b52-8ad6-566f9e489b5a"
       (reference "D50") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123F")
+    )
+    (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/f9c48ea2-213c-45d0-9cfd-bbd2cb71be01"
+      (reference "D_PWR1") (unit 1) (value "SMF9.0CA") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/ed815977-8ce9-43bf-9f7d-c601496617ea/bda6f6ec-074f-4486-8e73-7efe74af05b5"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
